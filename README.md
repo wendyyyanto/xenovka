@@ -33,7 +33,6 @@
 <a href="https://www.python.org/" target="_blank"><img width="24px" align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
 
 <br>
-<br>
 
 ---
 
@@ -61,10 +60,10 @@
 <div align="center">
   <h3>💬 Connect with Me</h3>
 
-<a href="https://github.com/xenovka/" target="_blank"><img align="center"  width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" /></a>
-<a href="https://www.instagram.com/wendyyyanto/" target="_blank"><img align="center"  width="24px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" /></a>
-<a href="https://twitter.com/xenovka" target="_blank"><img align="center" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" /></a>
-<a href="https://www.facebook.com/xenosia.id/" target="_blank"><img align="center" width="24px" src="https://image.flaticon.com/icons/png/512/145/145802.png" /></a>
-<a href="https://www.linkedin.com/in/wendy-anto-75423919b/" target="_blank"><img align="center" width="24px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
+  <a href="https://github.com/xenovka/" target="_blank"><img align="center" src="https://img.shields.io/badge/xenovka-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.instagram.com/wendyyyanto/" target="_blank"><img align="center" src="https://img.shields.io/badge/@wendyyyanto-pink?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://twitter.com/xenovka" target="_blank"><img align="center" src="https://img.shields.io/badge/@xenovka-lightblue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://www.facebook.com/xenosia.id/" target="_blank"><img align="center" src="https://img.shields.io/badge/Wendy Id-9cf?style=for-the-badge&logo=facebook" /></a>
+  <a href="https://www.linkedin.com/in/wendy-anto-75423919b/" target="_blank"><img align="center" src="https://img.shields.io/badge/Wendyanto-blue?style=for-the-badge&logo=linkedin" /></a>
 
 </div>
