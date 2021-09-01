@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there <img width="24px" height="24px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Wendy - Xenovka</h1>
-  <p>🙎‍♂️ I'm a 19 Years old student that likes programming a lot and spends most of my day learning programming.</p>
+  <p>🙎‍♂️ I'm a 18 Years old student that likes programming a lot and spends most of my day learning programming.</p>
 </div>
 
 ---
