@@ -12,9 +12,9 @@
 
 ### 🛠 Tools and Languages I Used
 
-<a href="https://code.visualstudio.com/" target="_blank"><img width="24px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img width="24px" align="left" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" /></a>
 
-<a href="https://github.com/xenovka/" target="_blank"><img width="24px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" /></a>
+<a href="https://github.com/xenovka/" target="_blank"><img width="24px" align="left" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" /></a>
 
 <a href="https://html.com/" target="_blank"><img width="24px" align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 
