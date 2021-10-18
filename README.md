@@ -26,6 +26,8 @@
 
 <a href="https://nodejs.org/en/" target="_blank"><img width="24px" align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
 
+<a href="https://v3.vuejs.org/" target="_blank"><img width="24px" align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /></a>
+
 <a href="https://www.javascript.com/" target="_blank"><img width="24px" align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
 
 <a href="https://www.typescriptlang.org/" target="_blank"><img width="24px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>
