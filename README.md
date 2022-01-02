@@ -6,7 +6,7 @@
 ---
 
 - 💻 Currently learning about technology
-- ✨ 2021 **Goals**: Mastering Web Development, Python, and Get a Job ✨
+- ✨ 2022 **Goals**: Learn Python, Back-end Technologies and Work as a Freelancer ✨
 
 ---
 
