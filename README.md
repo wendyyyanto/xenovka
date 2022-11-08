@@ -6,7 +6,6 @@
 ---
 
 - 💻 Currently learning ReactJS         
-- ✨ 2022 **Goals**: Working as a Freelancer ✨
 
 ---
 
