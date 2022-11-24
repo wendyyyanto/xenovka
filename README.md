@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi <img width="24px" height="24px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, welcome to my repo.</h1>
-  <p>My name is Wendy, an Informatics Student and currently seeking for an Internship</p>
+  <p>My name is Wendy, an Informatics Student and currently seeking for an Internship based in Tangerang</p>
 </div>       
 
 ---
