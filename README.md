@@ -1,15 +1,11 @@
 <div align="center">
-  <h1>Hi there <img width="24px" height="24px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Wendy | Xenovka</h1>
-  <p>a 19 y.o Computer Science Student.</p>
-</div>
+  <h1>Hi <img width="24px" height="24px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, welcome to my repo.</h1>
+  <p>My name is Wendy, an Informatics Student and currently seeking for an Internship</p>
+</div>       
 
 ---
 
-- 💻 Currently learning ReactJS         
-
----
-
-### 🛠 Tools and Languages
+### Technologies I used
 
 <a href="https://code.visualstudio.com/" target="_blank"><img width="24px" align="left" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" /></a>
 
@@ -22,6 +18,10 @@
 <a href="https://sass-lang.com/" target="_blank"><img width="24px" align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></a>
 
 <a href="https://www.javascript.com/" target="_blank"><img width="24px" align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+
+<a href="https://www.reactjs.org" target="_blank"><img width="24px" align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
+
+<a href="https://www.developer.android.com/" target="_blank"><img width="24px" align="left"  src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png" /></a>
 
 <br>
 
