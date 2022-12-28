@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Hi <img width="24px" height="24px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, welcome to my repo.</h1>
-  <p>My name is Wendy, an Informatics Student and currently seeking for an Internship based in Tangerang</p>
+  <h1>Hello, welcome to my github repo.</h1>
+  <p>I'm Wendy, a college student (6th semester) majoring in Informatics, focusing my programming skill on web development, and also interested in data science. I also have eager to learn 3d.</p>
 </div>       
 
 ---
 
-### Technologies I used
-
+<!-- ### Technologies I used -->
+<!-- 
 <a href="https://code.visualstudio.com/" target="_blank"><img width="24px" align="left" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" /></a>
 
 <a href="https://github.com/xenovka/" target="_blank"><img width="24px" align="left" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" /></a>
@@ -23,14 +23,14 @@
 
 <a href="https://www.developer.android.com/" target="_blank"><img width="24px" align="left"  src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png" /></a>
 
-<br>
+<br> -->
 
----
+<!-- --- -->
 
 <br>
 
 <div align="center">
-  <h3>📈 My Github Stats</h3>  
+  <h3>here's my github statistic.</h3>  
   <a href="https://github.com/xenovka">
     <img alt="Xenovka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xenovka&hide=contribs,prs&show_icons=true&theme=synthwave&hide_border=true" />   
   </a>
@@ -49,7 +49,7 @@
 ---
 
 <div align="center">
-  <h3>💬 Connect with Me</h3>
+  <h3>I'm also looking for a junior web developer job.</h3>
 
   <a href="https://github.com/xenovka/" target="_blank"><img align="center" src="https://img.shields.io/badge/xenovka-black?style=for-the-badge&logo=github" /></a>
   <a href="https://www.instagram.com/wendyyyanto/" target="_blank"><img align="center" src="https://img.shields.io/badge/@wendyyyanto-pink?style=for-the-badge&logo=instagram" /></a>
