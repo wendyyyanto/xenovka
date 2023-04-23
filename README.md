@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, welcome to my github repo.</h1>
+  <h1>Welcome to my github repo.</h1>
   <p>I'm Wendy, a college student (6th semester) majoring in Informatics and a Bangkit 2023 Cohort taking the Mobile Development path. Have some interest in web development, mobile development, 3d modeling, sports, and music.</p>
 </div>       
 
